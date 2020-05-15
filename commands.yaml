@@ -1,0 +1,4 @@
+commands:
+  image-analyser:
+    sourcePath: packages/image-analyser/image-analyser.py
+    description: Analyze image 
