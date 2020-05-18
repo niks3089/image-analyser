@@ -11,7 +11,7 @@ from watson_developer_cloud import VisualRecognitionV3
 URL_DECODER = re.compile('^<?([^|>]*)[|\w]*>?$')
 
 # name of the api key and version of the watson service to use
-API_KEY = 'ibmWatsonVisualRecognitionCredentials'
+API_KEY = 'VisualRecognitionApi'
 API_VERSION = '2018-03-19'
 
 # name of the parameter that is expected
